@@ -2,4 +2,4 @@ flutterTodoApp
 
 This is an app that simple
 
-![image](https://user-images.githubusercontent.com/91873720/206415596-3529f53a-3500-4b4a-843e-e9eaaa582b31.png)
+![scrn2](https://user-images.githubusercontent.com/91873720/206424497-93838e43-57c1-4854-bd87-f64d2a017818.png)
